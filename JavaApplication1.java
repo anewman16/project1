@@ -1,4 +1,4 @@
-//Author aaron newman, jon comisky
+//Author aaron newman
 //8/30/2020
 //410pairexercise
 
