@@ -20,7 +20,7 @@ import javax.swing.JPanel;
 
 
 public class Gui_main{
-	//aaron was here
+	
 
 	private JFrame frame;
 	private JLabel label1;
